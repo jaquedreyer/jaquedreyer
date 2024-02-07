@@ -1,7 +1,7 @@
-# HI there 👋
+# Hi there 👋
 
 
-#### I’m Jaqueline Dreyer, a PhD Research Scientist in career transition to tech 👩🏼‍💻
+#### I’m Jaqueline Dreyer, a PhD Research Scientist in career transition to Tech 👩🏼‍💻
 
 - 📲 I’m currently studying Mobile Development at [Programa Desenvolve 2024](https://desenvolve.grupoboticario.com.br/).
 - 🌱 I’m currently learning Flutter and Dart.
