@@ -10,7 +10,6 @@ Please feel free to connect with me and contribute to my projects. I would be ha
 
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-round&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/jaquelinedreyer)](https://www.linkedin.com/in/jaquelinedreyer)
 [![Medium Badge](https://img.shields.io/badge/Medium-12100E?style=flat-round&logo=medium&logoColor=white&link=https://https://medium.com/@jaquedreyer.tech)](https://medium.com/@jaquedreyer.tech)
-[![Instagram Badge](https://img.shields.io/badge/Instagram-E4405F?style=flat-round&logo=instagram&logoColor=white&link=https://https://www.instagram.com/tech.jaque/)](https://https://www.instagram.com/tech.jaque/)
   
 #### Languages and tools:
 <div align="center">
